@@ -24,14 +24,14 @@ python3 server.py -p 9999
 
 #### Cliente
 ```
-python3 client.py [-h] [-i HOST] [-p PORTA] [-f ARQUIVO]
+python3 client.py [-h] [-i HOST] [-p PORTA]
 ```
 
 Informe o endereço IP e a porta do servidor que registrará e fará as buscas dos melhores locais para compra de combustível.
 
 Exemplo:
 ```
-python3 client.py -i 127.0.1.1 -p 9999 -f ./posicao_tabuleiro.txt
+python3 client.py -i 127.0.1.1 -p 9999
 ```
 
 Todos os parâmetros, tanto do servidor quanto do cliente são opcionais.
