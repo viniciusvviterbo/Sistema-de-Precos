@@ -1,4 +1,4 @@
-# Batalha Naval
+# Sistema de Preços
 
 Implementação de um sistema de análise de preço que aponta qual o melhor local de compra dada uma certa região.
 
